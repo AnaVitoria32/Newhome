@@ -1,0 +1,50 @@
+.apresentaçao{
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo{
+   margin-top: 3em;
+   text-align: center;
+}
+
+.imagens{
+    height: 400px;
+    margin-left: 8em;
+    margin-bottom: 2em;
+}
+.imagens1{
+    height: 400px;
+    margin-left: 15em; 
+    margin-top: 2em;
+}
+
+.linha{
+    width: 900px;
+    height: 10px;
+    margin-left: 13em;
+}
+
+@media screen and (max-width:1024px){
+    .titulo{
+        margin-top: 3em;
+        text-align: center;
+        height: 40px;
+        margin-top: 3em;
+    }
+    .imagens{
+        height: 320px;
+        margin-left: 6em;
+        margin-bottom: 3em;
+    }
+    .imagens1{
+        height: 320px;
+        margin-left: 15em; 
+        margin-top: 3em;
+    }
+    .linha{
+        width: 900px;
+        height: 16px;
+        margin-left: 5em;
+    }
+}

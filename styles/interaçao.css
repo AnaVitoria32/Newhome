@@ -1,0 +1,75 @@
+.interaçao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo4{
+    text-decoration: none;
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 35px;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+
+.interatividade{
+    display: flex;
+    flex-direction: row;
+}
+
+.interatividade-paragrafo{
+    display: flex;
+    flex-direction: column;
+}
+
+.paragrafo1{
+    color: #A73121;
+    font-family: Ingrid Darling;
+    font-weight: 400;
+    font-size: 60px;
+    margin-right: 7em;
+}
+
+.paragrafo10{
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 30px;
+    margin-left: 3em;
+}
+
+.maquete{
+    width: 900px;
+}
+
+.interaçao-maquete{
+    display: flex;
+    flex-direction: row;
+}
+
+.lista{
+    list-style: none;
+}
+
+.lista-titulo{
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 25px;
+    margin-left: 1.5em;
+}
+
+.lista-primeiro{
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 20px;
+    margin-left: 1em;
+    margin-top: 1.5em;
+}
+
+.lista-segundo{
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 20px;
+    margin-left: 1em;
+    margin-top: 1.5em;
+}

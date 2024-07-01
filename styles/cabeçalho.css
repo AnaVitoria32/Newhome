@@ -1,0 +1,31 @@
+.cabeçalho{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.mini-titulo{
+    text-decoration: none;
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 20px;
+    margin-top: 1.5em;
+}
+
+@media screen and (max-width:1024px){
+    .cabeçalho{
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .mini-titulo{
+        text-decoration: none;
+        color: #A73121;
+        font-family: Jacques Francois;
+        font-size: 50px;
+        margin-top: 1.5em;
+    }
+}

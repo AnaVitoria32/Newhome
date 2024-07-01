@@ -1,0 +1,13 @@
+@import url("styles/cabeçalho.css");
+@import url("styles/apresentaçao.css");
+@import url("styles/projetos.css");
+@import url("styles/quemsomos.css");
+@import url("styles/interaçao.css");
+@import url("styles/formulario.css");
+@import url("styles/footer.css");
+
+body{
+    background-color: #F2E8C6;
+    margin: 0;
+    padding: 0;
+}

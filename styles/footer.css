@@ -1,0 +1,39 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.imagem-footer{
+    height: 50px;
+    margin-top: 1.5em;
+}
+
+.paragrafo-footer{
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 25px;
+    margin-top: 1.5em;
+}
+
+.redes-sociais{
+    margin-left: 4.5em;
+}
+
+.imagem-rede{
+    height: 35px;
+    margin-right: 1em;
+}
+
+.assinatura{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.assi{
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 25px;
+    margin-top: 1em;
+}

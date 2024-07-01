@@ -1,0 +1,35 @@
+.quem-somos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo3{
+    text-decoration: none;
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 35px;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+}
+
+.meio{
+    display: flex;
+    flex-direction: row;
+}
+
+.paragrafo{
+    text-decoration: none;
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 20px;
+    margin-top: 5em;
+    
+}
+
+.imagem2{
+    height: 400px;
+   
+    margin-top: 2em;
+}
+

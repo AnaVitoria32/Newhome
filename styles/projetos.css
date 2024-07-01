@@ -1,0 +1,48 @@
+.projetos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo2{
+    color: #A73121;
+    font-family: Jacques Francois;
+    font-size: 35px;
+    margin-top: 1.5em;
+    margin-bottom: 2em;
+}
+
+.imagem-carrossel{
+    width: 1000px;
+    display: block;
+}
+
+.linha1{
+    width: 900px;
+    height: 10px;
+    margin-left: 13em;
+    margin-top: 3em;
+}
+
+@media screen and (max-width:1024px){
+    .titulo2{
+        color: #A73121;
+        font-family: Jacques Francois;
+        font-size: 50px;
+        margin-top: 1.5em;
+        margin-bottom: 2em;
+    }
+
+    .imagem-carrossel{
+        width: 800px;
+        display: block;
+        margin-left: 3.5em;
+    }
+
+    .linha1{
+        margin-top: 3em;
+        width: 900px;
+        height: 16px;
+        margin-left: 5em;
+    }
+}
